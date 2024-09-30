@@ -32,5 +32,5 @@ Penjelasan :
     if opsi != 'y':
     print("Terima kasih telah menggunakan program ini^^")
           break
-   
+
  
