@@ -1,6 +1,8 @@
 # Mini-Project-1
 Nama : Muhammad Rizky Febrianto NIM : 2409116045
 ![Flowchart Minpro daspro drawio](https://github.com/user-attachments/assets/1c069072-f235-4bfd-96da-e1576860f5ba)
+![image](https://github.com/user-attachments/assets/5c19da04-dbfa-43bd-855a-9a027ad3672c)
+![image](https://github.com/user-attachments/assets/c9e7cba0-02f9-4b9d-af04-baafa8ac2938)
 
 Penjelasan :
 1. Baris 1: Untuk memunculkan nama program dengan print
